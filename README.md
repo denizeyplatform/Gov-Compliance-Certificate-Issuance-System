@@ -1,4 +1,4 @@
-# 📄 Compliance Certificate Issuance System
+# Compliance Certificate Issuance System
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
